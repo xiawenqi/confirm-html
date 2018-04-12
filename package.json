@@ -1,0 +1,18 @@
+{
+  "name": "confirm-html",
+  "version": "0.0.1",
+  "description": "a simple confirm box run in web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "confirm",
+    "box",
+    "promise",
+    "webpage",
+    "frontend"
+  ],
+  "author": "xiawenqi",
+  "license": "MIT"
+}

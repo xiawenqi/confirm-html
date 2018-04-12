@@ -1,0 +1,40 @@
+
+.confirm-html-wrap {
+	position: fixed;
+	top: 200px;
+	width: 400px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	background-color: #fefefe;
+	border: 1px solid #eee;
+	box-shadow: 0 0 5px #eee;
+}
+.confirm-html-box {
+	line-height: 1.4;
+	padding: 12px 10px;
+}
+.confirm-html-hd {
+	font-size: 20px;
+}
+.confirm-html-bd {
+	padding: 10px;
+	text-align: center;
+}
+.confirm-html-ft {
+	text-align: right;
+	margin-top: 10px;
+}
+.confirm-html-btn {
+	padding: 6px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.confirm-html-default:hover {
+	background-color: #dedede;
+}
+.confirm-html-primary {
+	background-color: steelblue;
+	color: #fff;
+	border-color: steelblue;
+}
