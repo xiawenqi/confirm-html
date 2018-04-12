@@ -1,7 +1,7 @@
 
 .confirm-html-wrap {
 	position: fixed;
-	top: 200px;
+	top: 110px;
 	width: 400px;
 	left: 0;
 	right: 0;
@@ -15,10 +15,11 @@
 	padding: 12px 10px;
 }
 .confirm-html-hd {
-	font-size: 20px;
+	font-size: 18px;
 }
 .confirm-html-bd {
 	padding: 10px;
+	font-size: 14px;
 	text-align: center;
 }
 .confirm-html-ft {
